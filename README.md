@@ -1,6 +1,8 @@
 # C++-Academic-Project
 #### Welcome to my collection of academic C++ projects! 👨‍💻 This repository showcases three projects I built as part of my coursework at HKUST for COMP2011. Each project strengthened my skills in programming fundamentals, problem-solving, and system simulation. Below you can find descriptions, key takeaways, and how to run each project
 
+<br>
+<br>
 
 ## 📘 Project 1: TurnBased-Game-Simulation.cpp
 
