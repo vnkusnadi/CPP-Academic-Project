@@ -23,7 +23,8 @@ This project is a simulation of a turn-based strategy game featuring warriors on
 
 Input should be provided via standard input or redirected from a file.
 
-
+<br>
+<br>
 
 ## 💣 Project 2: MineSweeper-Game-With-Recursion.cpp
 
@@ -40,6 +41,10 @@ A simplified console version of Minesweeper! It uses recursion to reveal empty c
     $ ./minesweeper
 ###### Load maps via:
     $ ./minesweeper < testcase/input1.txt
+
+<br>
+<br>
+
 
 ## 🌐 Project 3: Social-Networking-Platform-Prototype.cpp
 
@@ -58,15 +63,19 @@ This project simulates a simple backend for a social network. It supports user c
   
 Follow the menu prompts to interact with the system.
 
+<br>
 
 ## 🛠️ Development Tools
   - Language: C++ (Standard: C++11/C++14)
   - Compiler: g++ (MinGW/GCC)
   - Platform: Windows 10 / Linux (tested via WSL & Ubuntu)
+<br>
+
 
 ## 🧠 Future Improvements
   - 🗺️ Add UI to the Turn-Based Game.
   - 🐛 Add undo/redo and difficulty scaling to Minesweeper.
   - 📱 Expand social network to include comments, timestamps, and friend requests.
 
+<br>
 ## Thanks for exploring my projects! Feel free to fork or give suggestions. 😊
