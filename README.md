@@ -1,1 +1,2 @@
-# C-Academic-Project
+# C++-Academic-Project
+# The following
